@@ -1,10 +1,14 @@
-# malyee521
-## 중간 제목
-**굵게**
-![이미지](https://i.namu.wiki/i/geGngQMnvmK2g3wuKU4O1uNs8Ix1HXQULk9PrnT57lHOlU4AxL9qsNCYXOOY9DIqPWtXnphq8G6NzCcvzv-ppQ.webp)
->인용문
-
-
-|표1|표2|
-- [ ] 해야할 일
-- [x] 진행할 일
+# 🌈 꿈과 희망이 가득한 Repository 
+> 오늘부터 나는 개발자다. 한 줄씩, 한 커밋씩. 
+## 👤 소개 
+- 이름: (내 이름) 
+- 전공: 게임콘텐츠 
+- 오늘의 다짐: (한 줄) 
+## 📂 오늘 만든 것 
+| 파일 | 설명 | | --- | --- | | gugudan.py | 단을 입력하면 구구단을 출력하는 함수 | | turtle_art.py | 터틀로 그린 내가 생각하는 가장 멋있는 도형 | 
+## ▶️ 실행 방법 python gugudan.py python turtle_art.py 
+## 🌱 오늘의 잔디 
+- [x] 레포 만들기 
+- [x] README 꾸미기 
+- [ ] 구구단 함수 
+- [ ] 터틀 도형
